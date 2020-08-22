@@ -47,6 +47,21 @@
         </dependency>
 
         <!--需要引入该jar才能使bootstrap配置文件生效-->
+        <!--<dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-context</artifactId>
+            <version>2.0.1.RELEASE</version>
+        </dependency>-->
+
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-dependencies</artifactId>
+            <version>Hoxton.SR7</version>
+            <type>pom</type>
+            <scope>runtime</scope>
+        </dependency>
+
+
 
         <!--        mybatis-spring-boot-starter-->
         <dependency>

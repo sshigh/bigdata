@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.taptap.demo.mapper.MostOrderGameTypeMapper">
+    <resultMap id="mostOrderGameTypeMap" type="com.taptap.demo.entity.MostOrderGameType">
+        <id column="type" property="type"></id>
+        <result column="num" property="num"></result>
+        <result column="distribution" property="distribution"></result>
+    </resultMap>
+
+
+    <select id="getMostOrderGameTypeList" resultMap="mostOrderGameTypeMap">
+      SELECT type,num,distribution from much_order_game_type
+</select>
+
+</mapper>
