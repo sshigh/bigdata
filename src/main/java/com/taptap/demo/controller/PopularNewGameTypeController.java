@@ -21,7 +21,7 @@ public class PopularNewGameTypeController {
 
     @RequestMapping("/popularNewGameTypePage")
     public String getPopularNewGameTypePages(){
-        return "";
+        return "list analysis2";
     }
 
 

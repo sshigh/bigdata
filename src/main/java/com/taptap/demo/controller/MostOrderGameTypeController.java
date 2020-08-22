@@ -20,7 +20,7 @@ public class MostOrderGameTypeController {
 
     @RequestMapping("/mostOrderGameTypePages")
     public String getMostOrderGameTypePage(){
-        return "";
+        return "list analysis2";
     }
 
     @RequestMapping("/getMostOrderGameType")
