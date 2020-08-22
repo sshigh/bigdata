@@ -1,0 +1,21 @@
+[recommend]INFO 2020-08-19 13:38:27 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 13704 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-19 13:38:27 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-19 13:38:28 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-19 13:38:28 Root WebApplicationContext: initialization completed in 1111 ms
+[recommend]INFO 2020-08-19 13:38:28 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-19 13:38:28 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-19 13:38:28 Started DemoApplication in 2.284 seconds (JVM running for 3.583)
+[recommend]INFO 2020-08-19 13:38:59 Initializing Servlet 'dispatcherServlet'
+[recommend]INFO 2020-08-19 13:38:59 Completed initialization in 6 ms
+[recommend]WARN 2020-08-19 13:38:59 No mapping for GET /favicon.ico
+[recommend]INFO 2020-08-19 13:42:16 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 19440 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-19 13:42:16 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-19 13:42:17 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-19 13:42:17 Root WebApplicationContext: initialization completed in 1069 ms
+[recommend]INFO 2020-08-19 13:42:18 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-19 13:42:18 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-19 13:42:18 Started DemoApplication in 2.059 seconds (JVM running for 3.003)
+[recommend]INFO 2020-08-19 13:42:21 Initializing Servlet 'dispatcherServlet'
+[recommend]INFO 2020-08-19 13:42:21 Completed initialization in 4 ms
+[recommend]INFO 2020-08-19 13:42:21 taptapanalysis - Starting...
+[recommend]INFO 2020-08-19 13:42:22 taptapanalysis - Start completed.

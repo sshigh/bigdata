@@ -1,0 +1,23 @@
+[recommend]INFO 2020-08-18 16:42:27 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 8820 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-18 16:42:27 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-18 16:42:28 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-18 16:42:28 Root WebApplicationContext: initialization completed in 1266 ms
+[recommend]INFO 2020-08-18 16:42:29 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-18 16:42:29 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-18 16:42:29 Started DemoApplication in 2.558 seconds (JVM running for 3.926)
+[recommend]INFO 2020-08-18 16:43:32 Initializing Servlet 'dispatcherServlet'
+[recommend]INFO 2020-08-18 16:43:32 Completed initialization in 7 ms
+[recommend]WARN 2020-08-18 16:43:32 No mapping for GET /favicon.ico
+[recommend]INFO 2020-08-18 16:43:40 taptapanalysis - Starting...
+[recommend]INFO 2020-08-18 16:43:40 taptapanalysis - Start completed.
+[recommend]INFO 2020-08-18 16:45:03 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 3676 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-18 16:45:03 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-18 16:45:04 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-18 16:45:04 Root WebApplicationContext: initialization completed in 1235 ms
+[recommend]INFO 2020-08-18 16:45:05 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-18 16:45:05 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-18 16:45:05 Started DemoApplication in 2.281 seconds (JVM running for 3.29)
+[recommend]INFO 2020-08-18 16:45:10 Initializing Servlet 'dispatcherServlet'
+[recommend]INFO 2020-08-18 16:45:10 Completed initialization in 6 ms
+[recommend]INFO 2020-08-18 16:45:10 taptapanalysis - Starting...
+[recommend]INFO 2020-08-18 16:45:11 taptapanalysis - Start completed.

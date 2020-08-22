@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.taptap.demo.mapper.DeveloperMapper">
+    <resultMap id="developerMapper" type="com.taptap.demo.entity.Developer">
+        <id column="developer" property="developer"></id>
+        <result column="evaluation" property="evaluation"></result>
+    </resultMap>
+
+    <select id="getDeveloperList" resultMap="developerMapper">
+        select developer.developer,developer.evaluation
+        from developer,developer_game
+        where developer.developer = developer_game.developer
+    </select>
+</mapper>

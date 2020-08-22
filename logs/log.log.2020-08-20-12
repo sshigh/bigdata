@@ -1,0 +1,16 @@
+[recommend]INFO 2020-08-20 12:52:19 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 14320 (F:\shixun1\target\classes started by hp in F:\shixun1)
+[recommend]INFO 2020-08-20 12:52:19 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-20 12:52:20 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-20 12:52:20 Root WebApplicationContext: initialization completed in 1231 ms
+[recommend]INFO 2020-08-20 12:52:21 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-20 12:52:21 Adding welcome page template: index
+[recommend]INFO 2020-08-20 12:52:21 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-20 12:52:21 Started DemoApplication in 2.716 seconds (JVM running for 3.931)
+[recommend]INFO 2020-08-20 12:52:43 Initializing Servlet 'dispatcherServlet'
+[recommend]INFO 2020-08-20 12:52:43 Completed initialization in 5 ms
+[recommend]WARN 2020-08-20 12:52:43 No mapping for GET /gameType/css/public.css
+[recommend]WARN 2020-08-20 12:52:43 No mapping for GET /gameType/css/index.css
+[recommend]WARN 2020-08-20 12:52:43 No mapping for GET /gameType/js/echarts.min.js
+[recommend]WARN 2020-08-20 12:52:43 No mapping for GET /gameType/css/icon.css
+[recommend]WARN 2020-08-20 12:52:43 No mapping for GET /gameType/js/echarts.min.js
+[recommend]WARN 2020-08-20 12:52:43 No mapping for GET /favicon.ico

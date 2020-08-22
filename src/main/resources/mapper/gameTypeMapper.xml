@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.taptap.demo.mapper.GameTypeMapper">
+<resultMap id="gameTypeMap" type="com.taptap.demo.entity.GameType">
+    <id column="type" property="type"></id>
+    <result column="num" property="num"></result>
+    <result column="distribution" property="distribution"></result>
+</resultMap>
+
+    <resultMap id="gameTypeCountMap" type="com.taptap.demo.entity.GameType">
+        <id column="type" property="type"></id>
+        <result column="num" property="num"></result>
+    </resultMap>
+
+
+
+<select id="getGameTypeList" resultMap="gameTypeMap">
+      SELECT type,num,distribution from game_type
+</select>
+
+    <select id="getGameTypeCountList" resultMap="gameTypeCountMap">
+      SELECT type,num from game_type
+    </select>
+</mapper>

@@ -1,0 +1,54 @@
+[recommend]INFO 2020-08-19 14:02:19 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 14552 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-19 14:02:19 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-19 14:02:20 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-19 14:02:20 Root WebApplicationContext: initialization completed in 1203 ms
+[recommend]INFO 2020-08-19 14:02:21 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-19 14:02:21 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-19 14:02:21 Started DemoApplication in 2.333 seconds (JVM running for 3.491)
+[recommend]INFO 2020-08-19 14:03:08 Initializing Servlet 'dispatcherServlet'
+[recommend]INFO 2020-08-19 14:03:08 Completed initialization in 7 ms
+[recommend]INFO 2020-08-19 14:03:08 taptapanalysis - Starting...
+[recommend]INFO 2020-08-19 14:03:09 taptapanalysis - Start completed.
+[recommend]WARN 2020-08-19 14:04:54 No mapping for GET /hotGameType/getHotGameType
+[recommend]INFO 2020-08-19 14:42:19 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 15480 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-19 14:42:19 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-19 14:42:20 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-19 14:42:20 Root WebApplicationContext: initialization completed in 1101 ms
+[recommend]INFO 2020-08-19 14:42:21 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-19 14:42:21 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-19 14:42:21 Started DemoApplication in 2.16 seconds (JVM running for 3.141)
+[recommend]INFO 2020-08-19 14:43:14 Initializing Servlet 'dispatcherServlet'
+[recommend]INFO 2020-08-19 14:43:14 Completed initialization in 6 ms
+[recommend]INFO 2020-08-19 14:46:58 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 18748 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-19 14:46:58 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-19 14:46:59 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-19 14:46:59 Root WebApplicationContext: initialization completed in 1314 ms
+[recommend]INFO 2020-08-19 14:47:00 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-19 14:47:00 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-19 14:47:00 Started DemoApplication in 2.405 seconds (JVM running for 3.455)
+[recommend]INFO 2020-08-19 14:47:04 Initializing Servlet 'dispatcherServlet'
+[recommend]INFO 2020-08-19 14:47:04 Completed initialization in 7 ms
+[recommend]INFO 2020-08-19 14:47:04 taptapanalysis - Starting...
+[recommend]INFO 2020-08-19 14:47:05 taptapanalysis - Start completed.
+[recommend]INFO 2020-08-19 14:53:42 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 19840 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-19 14:53:42 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-19 14:53:43 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-19 14:53:44 Root WebApplicationContext: initialization completed in 1070 ms
+[recommend]INFO 2020-08-19 14:53:44 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-19 14:53:44 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-19 14:53:44 Started DemoApplication in 2.109 seconds (JVM running for 3.147)
+[recommend]INFO 2020-08-19 14:54:13 Initializing Servlet 'dispatcherServlet'
+[recommend]INFO 2020-08-19 14:54:13 Completed initialization in 6 ms
+[recommend]INFO 2020-08-19 14:54:13 taptapanalysis - Starting...
+[recommend]INFO 2020-08-19 14:54:14 taptapanalysis - Start completed.
+[recommend]INFO 2020-08-19 14:56:02 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 820 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-19 14:56:02 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-19 14:56:03 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-19 14:56:03 Root WebApplicationContext: initialization completed in 1207 ms
+[recommend]INFO 2020-08-19 14:56:04 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-19 14:56:04 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-19 14:56:04 Started DemoApplication in 2.342 seconds (JVM running for 3.35)
+[recommend]INFO 2020-08-19 14:56:07 Initializing Servlet 'dispatcherServlet'
+[recommend]INFO 2020-08-19 14:56:07 Completed initialization in 5 ms
+[recommend]INFO 2020-08-19 14:56:07 taptapanalysis - Starting...
+[recommend]INFO 2020-08-19 14:56:08 taptapanalysis - Start completed.

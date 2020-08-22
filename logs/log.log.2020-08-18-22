@@ -1,0 +1,12 @@
+[recommend]INFO 2020-08-18 22:49:08 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 12684 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-18 22:49:08 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-18 22:49:09 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-18 22:49:09 Root WebApplicationContext: initialization completed in 1585 ms
+[recommend]INFO 2020-08-18 22:49:10 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-18 22:49:10 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-18 22:49:10 Started DemoApplication in 2.974 seconds (JVM running for 4.235)
+[recommend]INFO 2020-08-18 22:49:20 Initializing Servlet 'dispatcherServlet'
+[recommend]INFO 2020-08-18 22:49:20 Completed initialization in 7 ms
+[recommend]WARN 2020-08-18 22:49:20 No mapping for GET /favicon.ico
+[recommend]INFO 2020-08-18 22:49:20 taptapanalysis - Starting...
+[recommend]INFO 2020-08-18 22:49:21 taptapanalysis - Start completed.

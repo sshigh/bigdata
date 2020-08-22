@@ -1,0 +1,103 @@
+[recommend]INFO 2020-08-18 14:23:11 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 17416 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-18 14:23:11 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-18 14:23:11 Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[recommend]INFO 2020-08-18 14:23:11 For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[recommend]INFO 2020-08-18 14:23:12 Tomcat initialized with port(s): 8081 (http)
+[recommend]INFO 2020-08-18 14:23:12 Root WebApplicationContext: initialization completed in 1266 ms
+[recommend]INFO 2020-08-18 14:23:13 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]WARN 2020-08-18 14:23:13 Unable to start LiveReload server
+[recommend]WARN 2020-08-18 14:23:13 Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8081 is already in use
+[recommend]INFO 2020-08-18 14:23:13 Shutting down ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-18 14:23:13 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[recommend]ERROR 2020-08-18 14:23:13 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8081 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8081 or configure this application to listen on another port.
+
+[recommend]INFO 2020-08-18 14:25:10 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 12932 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-18 14:25:10 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-18 14:25:11 Tomcat initialized with port(s): 8081 (http)
+[recommend]INFO 2020-08-18 14:25:11 Root WebApplicationContext: initialization completed in 1184 ms
+[recommend]INFO 2020-08-18 14:25:11 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]WARN 2020-08-18 14:25:11 Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8081 is already in use
+[recommend]INFO 2020-08-18 14:25:11 Shutting down ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-18 14:25:11 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[recommend]ERROR 2020-08-18 14:25:11 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8081 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8081 or configure this application to listen on another port.
+
+[recommend]INFO 2020-08-18 14:27:53 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 3024 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-18 14:27:53 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-18 14:27:54 Tomcat initialized with port(s): 8081 (http)
+[recommend]INFO 2020-08-18 14:27:54 Root WebApplicationContext: initialization completed in 1170 ms
+[recommend]INFO 2020-08-18 14:27:54 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]WARN 2020-08-18 14:27:54 Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8081 is already in use
+[recommend]INFO 2020-08-18 14:27:54 Shutting down ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-18 14:27:54 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[recommend]ERROR 2020-08-18 14:27:54 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8081 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8081 or configure this application to listen on another port.
+
+[recommend]INFO 2020-08-18 14:36:12 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 9524 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-18 14:36:12 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-18 14:36:14 Tomcat initialized with port(s): 80 (http)
+[recommend]INFO 2020-08-18 14:36:14 Root WebApplicationContext: initialization completed in 1148 ms
+[recommend]INFO 2020-08-18 14:36:14 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-18 14:36:14 Tomcat started on port(s): 80 (http) with context path ''
+[recommend]INFO 2020-08-18 14:36:14 Started DemoApplication in 2.227 seconds (JVM running for 3.321)
+[recommend]INFO 2020-08-18 14:37:21 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 17960 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-18 14:37:21 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-18 14:37:22 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-18 14:37:22 Root WebApplicationContext: initialization completed in 1313 ms
+[recommend]INFO 2020-08-18 14:37:23 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-18 14:37:23 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-18 14:37:23 Started DemoApplication in 2.578 seconds (JVM running for 3.69)
+[recommend]INFO 2020-08-18 14:42:35 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 19680 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-18 14:42:35 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-18 14:42:36 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-18 14:42:36 Root WebApplicationContext: initialization completed in 1308 ms
+[recommend]INFO 2020-08-18 14:42:36 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-18 14:42:37 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-18 14:42:37 Started DemoApplication in 2.458 seconds (JVM running for 3.537)
+[recommend]INFO 2020-08-18 14:47:03 Starting DemoApplication on LAPTOP-1Q88Q7G7 with PID 5652 (G:\shixun1\target\classes started by hp in G:\shixun1)
+[recommend]INFO 2020-08-18 14:47:03 No active profile set, falling back to default profiles: default
+[recommend]INFO 2020-08-18 14:47:04 Tomcat initialized with port(s): 8080 (http)
+[recommend]INFO 2020-08-18 14:47:05 Root WebApplicationContext: initialization completed in 1151 ms
+[recommend]INFO 2020-08-18 14:47:05 Initializing ExecutorService 'applicationTaskExecutor'
+[recommend]INFO 2020-08-18 14:47:05 Tomcat started on port(s): 8080 (http) with context path ''
+[recommend]INFO 2020-08-18 14:47:05 Started DemoApplication in 2.258 seconds (JVM running for 3.4)

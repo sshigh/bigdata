@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.taptap.demo.mapper.AttentionHotnessMapper">
+    <resultMap id="attentionHotnessMapper" type="com.taptap.demo.entity.AttentionHotness">
+        <id column="hotness" property="hotness"></id>
+        <result column="attention" property="attention"></result>
+    </resultMap>
+
+    <select id="getAttentionHotnessList" resultMap="attentionHotnessMapper">
+      SELECT attention,hotness from relation_attention_hotness
+    </select>
+</mapper>
